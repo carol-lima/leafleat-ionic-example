@@ -1,4 +1,4 @@
-# leafleat-ionic-example
+# leaflet-ionic-example
 
 :dart: Ionic App - Leaflet maps showing locations example.
 
